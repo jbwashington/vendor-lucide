@@ -1,0 +1,20 @@
+{
+  "upstream": "lucide-icons/lucide",
+  "npm": "lucide-react",
+  "tag": "0.575.0",
+  "commit": "10f6d5f8c6d9a1dae5e0ddec3925456ea7eca7bd",
+  "reviewed_through": "0.575.0",
+  "files": [
+    "packages/lucide-react/src/Icon.ts",
+    "packages/lucide-react/src/createLucideIcon.ts",
+    "packages/lucide-react/src/defaultAttributes.ts",
+    "packages/lucide-react/src/types.ts",
+    "packages/shared/src/utils/hasA11yProp.ts",
+    "packages/shared/src/utils/mergeClasses.ts",
+    "packages/shared/src/utils/toCamelCase.ts",
+    "packages/shared/src/utils/toKebabCase.ts",
+    "packages/shared/src/utils/toPascalCase.ts",
+    "LICENSE"
+  ],
+  "license": "ISC"
+}

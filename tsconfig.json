@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "jsx": "react-jsx", "module": "esnext", "moduleResolution": "bundler", "target": "es2022", "strict": true,
+    "skipLibCheck": true,
+    "paths": { "@lucide/shared": ["./test/shim/lucide-shared.ts"] }
+  }
+}
