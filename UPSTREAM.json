@@ -3,7 +3,7 @@
   "npm": "lucide-react",
   "tag": "0.575.0",
   "commit": "10f6d5f8c6d9a1dae5e0ddec3925456ea7eca7bd",
-  "reviewed_through": "0.575.0",
+  "reviewed_through": "1.66.0",
   "files": [
     "packages/lucide-react/src/Icon.ts",
     "packages/lucide-react/src/createLucideIcon.ts",
